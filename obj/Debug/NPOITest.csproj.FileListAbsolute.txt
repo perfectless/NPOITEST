@@ -1,0 +1,16 @@
+G:\我的文档\Visual Studio 2013\Projects\NPOI\NPOITest\obj\Debug\NPOITest.Form1.resources
+G:\我的文档\Visual Studio 2013\Projects\NPOI\NPOITest\obj\Debug\NPOITest.Properties.Resources.resources
+G:\我的文档\Visual Studio 2013\Projects\NPOI\NPOITest\obj\Debug\NPOITest.csproj.GenerateResource.Cache
+G:\我的文档\Visual Studio 2013\Projects\NPOI\NPOITest\obj\Debug\NPOITest.exe.licenses
+G:\我的文档\Visual Studio 2013\Projects\NPOI\NPOITest\bin\Debug\NPOITest.exe
+G:\我的文档\Visual Studio 2013\Projects\NPOI\NPOITest\bin\Debug\NPOITest.pdb
+G:\我的文档\Visual Studio 2013\Projects\NPOI\NPOITest\bin\Debug\C1.Common.dll
+G:\我的文档\Visual Studio 2013\Projects\NPOI\NPOITest\bin\Debug\C1.Win.C1FlexGrid.dll
+G:\我的文档\Visual Studio 2013\Projects\NPOI\NPOITest\bin\Debug\NPOI.dll
+G:\我的文档\Visual Studio 2013\Projects\NPOI\NPOITest\bin\Debug\NPOI.OOXML.dll
+G:\我的文档\Visual Studio 2013\Projects\NPOI\NPOITest\bin\Debug\NPOI.OpenXml4Net.dll
+G:\我的文档\Visual Studio 2013\Projects\NPOI\NPOITest\bin\Debug\NPOI.OpenXmlFormats.dll
+G:\我的文档\Visual Studio 2013\Projects\NPOI\NPOITest\bin\Debug\ICSharpCode.SharpZipLib.dll
+G:\我的文档\Visual Studio 2013\Projects\NPOI\NPOITest\obj\Debug\NPOITest.exe
+G:\我的文档\Visual Studio 2013\Projects\NPOI\NPOITest\obj\Debug\NPOITest.pdb
+G:\我的文档\Visual Studio 2013\Projects\NPOI\NPOITest\obj\Debug\NPOITest.csprojResolveAssemblyReference.cache
